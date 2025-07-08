@@ -1,0 +1,7 @@
+build/
+*.o
+*.a
+*.out
+.vscode/
+to-do
+compile_flags.txt
